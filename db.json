@@ -1,0 +1,33 @@
+{
+    "configJson":[
+        {
+            "id":1,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form"
+            },
+            "requestURL":"https://democrm.kapturecrm.com/ms/feedback/survey/ai/save-associate-data"
+        },
+        {
+            "id":2,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form"
+            },
+            "requestURL":"https://democrm.kapturecrm.com/ms/feedback/survey/ai/save-associate-data"
+        }
+    ]
+    
+}
