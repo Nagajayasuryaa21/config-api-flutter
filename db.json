@@ -5,13 +5,13 @@
             "isMandatory":false,
             "close":{
                 "enable":true,
-                "align":"left",
+                "align":"right",
                 "closeMessage":"Surver form closed, Back to home page"
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form",
-                "size":20,
+                "name":"Feed Back",
+                "size":10,
                 "align":"left"
             },
             "webViewMessage":{
