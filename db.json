@@ -4,14 +4,14 @@
             "id":1,
             "isMandatory":false,
             "close":{
-                "enable":true,
+                "enable":false,
                 "align":"center",
                 "closeMessage":"Surver form closed, Back to home page"
             },
             "title":{
                 "enable":true,
                 "name":"Feedback Form",
-                "size":10,
+                "size":30,
                 "align":"left"
             },
             "webViewMessage":{
