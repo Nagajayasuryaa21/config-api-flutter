@@ -9,7 +9,7 @@
                 "closeMessage":"Surver form closed, Back to home page"
             },
             "title":{
-                "enable":true,
+                "enable":false,
                 "name":"Feedback Form",
                 "size":30,
                 "align":"left"
