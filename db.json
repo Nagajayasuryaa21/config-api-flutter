@@ -16,7 +16,7 @@
             },
             "webViewMessage":{
                 "onPageStarted":{
-                    "enable":true,
+                    "enable":false,
                     "message":"Please Wait While loading the page"
                 },
                 "onPageFinished":{
