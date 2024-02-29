@@ -10,7 +10,9 @@
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form"
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
             },
             "webViewMessage":{
                 "onPageStarted":{
@@ -37,7 +39,9 @@
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form"
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
             },
             "webViewMessage":{
                 "onPageStarted":{
@@ -64,7 +68,9 @@
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form"
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
             },
             "webViewMessage":{
                 "onPageStarted":{
@@ -91,7 +97,9 @@
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form"
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
             },
             "webViewMessage":{
                 "onPageStarted":{
@@ -118,7 +126,9 @@
             },
             "title":{
                 "enable":true,
-                "name":"Survey Form"
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
             },
             "webViewMessage":{
                 "onPageStarted":{
