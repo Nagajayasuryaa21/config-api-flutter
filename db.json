@@ -4,35 +4,6 @@
             "id":1,
             "isMandatory":false,
             "close":{
-                "enable":false,
-                "align":"center",
-                "closeMessage":"Surver form closed, Back to home page"
-            },
-            "title":{
-                "enable":false,
-                "name":"Feedback Form",
-                "size":30,
-                "align":"left"
-            },
-            "webViewMessage":{
-                "onPageStarted":{
-                    "enable":true,
-                    "message":"Please Wait While loading the page"
-                },
-                "onPageFinished":{
-                    "enable":true,
-                    "message":"Finished Page Loading..."
-                },
-                "onWebResourceError":{
-                    "enable":true,
-                    "message":"Unable to load your web page, please try again"
-                }
-            }
-        },
-        {
-            "id":2,
-            "isMandatory":false,
-            "close":{
                 "enable":true,
                 "align":"left",
                 "closeMessage":"Surver form closed, Back to home page"
