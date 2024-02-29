@@ -6,7 +6,7 @@
             "close":{
                 "enable":true,
                 "align":"right",
-                "closeMessage":"Surver form closed, Back to home page"
+                "closeMessage":"Surver form closed"
             },
             "title":{
                 "enable":true,
