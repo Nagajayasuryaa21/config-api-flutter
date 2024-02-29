@@ -6,7 +6,7 @@
             "close":{
                 "enable":true,
                 "align":"left",
-                "closeMessage":"Survey form closed, Back to home page"
+                "closeMessage":"Surver form closed, Back to home page"
             },
             "title":{
                 "enable":true,
@@ -33,7 +33,88 @@
             "close":{
                 "enable":true,
                 "align":"left",
-                "closeMessage":"Survey form closed, Back to home page"
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":3,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":4,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":5,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
             },
             "title":{
                 "enable":true,
