@@ -10,8 +10,124 @@
             },
             "title":{
                 "enable":true,
-                "name":"Feed Back",
-                "size":10,
+                "name":"Feed Back Form",
+                "size":20,
+                "align":"center"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Please Wait While loading the page"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Finished Page Loading..."
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":2,
+            "isMandatory":false,
+            "close":{
+                "enable":false,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Feed Back Form",
+                "size":30,
+                "align":"center"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":3,
+            "isMandatory":false,
+            "close":{
+                "enable":false,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":true,
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":4,
+            "isMandatory":false,
+            "close":{
+                "enable":true,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":false,
+                "name":"Survey Form",
+                "size":20,
+                "align":"left"
+            },
+            "webViewMessage":{
+                "onPageStarted":{
+                    "enable":true,
+                    "message":"Loading please wait"
+                },
+                "onPageFinished":{
+                    "enable":true,
+                    "message":"Page Loading Completed"
+                },
+                "onWebResourceError":{
+                    "enable":true,
+                    "message":"Oops! Unable to load your web page, please try again"
+                }
+            }
+        },
+        {
+            "id":5,
+            "isMandatory":false,
+            "close":{
+                "enable":false,
+                "align":"left",
+                "closeMessage":"Surver form closed, Back to home page"
+            },
+            "title":{
+                "enable":false,
+                "name":"Survey Form",
+                "size":20,
                 "align":"left"
             },
             "webViewMessage":{
