@@ -6,7 +6,7 @@
             "close":{
                 "enable":true,
                 "align":"left",
-                "closeMessage":"Surver form closed, Back to home page"
+                "closeMessage":"Survey form closed, Back to home page"
             },
             "title":{
                 "enable":true,
@@ -33,7 +33,7 @@
             "close":{
                 "enable":true,
                 "align":"left",
-                "closeMessage":"Surver form closed, Back to home page"
+                "closeMessage":"Survey form closed, Back to home page"
             },
             "title":{
                 "enable":true,
